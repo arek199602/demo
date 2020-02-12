@@ -1,31 +1,22 @@
 {
-  "posts": [
+  "employees": [
     {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "id": "5e39278ecc8cdd6643e9fb63",
+      "avatarUrl": "http://placehold.it/32x32",
+      "name": "Schroeder Bryan",
+      "company": "MIXERS",
+      "email": "schroeder.bryan@mixers.io",
+      "phone": "(902) 591-3371",
+      "address": "257 Hornell Loop, Driftwood, Nevada, 925",
+      "about": "Aliqua proident eu consequat cillum laborum commodo. Exercitation voluptate sunt est culpa veniam exercitation voluptate incididunt labore amet esse. Duis proident adipisicing voluptate eu aliquip anim aute in consectetur nulla eiusmod consequat. Pariatur duis cillum ea nisi velit proident do nostrud non culpa amet nulla consectetur exercitation. Sit nostrud commodo irure ut voluptate id et irure eu quis. Quis deserunt sit culpa laborum tempor pariatur. Qui et cillum exercitation ut commodo.",
+      "createdAt": 1424510706,
+      "tags": [
+        "sunt",
+        "nisi",
+        "occaecat",
+        "exercitation",
+        "ex"
+      ]
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
